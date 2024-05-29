@@ -128,9 +128,9 @@ footer_text_color                         : "#666666"
 sass:
   style: :compressed # You might prefer to minify using :compressed
   
-exclude: vendor
 # Exclude these files from your production _site
 exclude:
+  - vendor
   - LICENSE
   - README.md
   - CNAME
