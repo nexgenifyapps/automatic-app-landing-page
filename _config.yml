@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Visual Financial Insights
     description                           : Gain valuable insights into your spending with our visual graphs. These charts provide a clear overview of your monthly expenditures, highlighting any unusual spikes or drops. This feature helps you identify spending patterns and make informed financial decisions.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : chart
 
   - title                                 : Customizable Transaction Filters
     description                           : Easily filter your transactions with customizable filters. Whether you want to view expenses by category, amount, or date, our app allows you to quickly find and review specific transactions, ensuring you have detailed control over your financial data.
@@ -66,7 +66,7 @@ features                                  :
 
   - title                                 : User-Friendly Design
     description                           : Designed with simplicity in mind, making it easy for anyone to manage their finances, regardless of their financial expertise.
-    fontawesome_icon_name                 : face-smile
+    fontawesome_icon_name                 : mobile
 
   - title                                 : Dark Mode Support
     description                           : Enjoy a sleek, modern interface that’s easy on the eyes. Switch to dark mode for a better viewing experience, especially in low light conditions.
