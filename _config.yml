@@ -48,10 +48,6 @@ features                                  :
     description                           : Easily filter your transactions with customizable filters. Whether you want to view expenses by category, amount, or date, our app allows you to quickly find and review specific transactions, ensuring you have detailed control over your financial data.
     fontawesome_icon_name                 : filter
 
-  - title                                 : Flexible Date Range Selection
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
   - title                                 : Effortless Transaction Deletion
     description                           : Managing your transactions is simple with our easy delete feature. Just swipe to delete any transaction record, keeping your financial data clean and up-to-date.
     fontawesome_icon_name                 : eraser
