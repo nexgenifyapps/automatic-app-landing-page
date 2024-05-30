@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Visual Financial Insights
     description                           : Gain valuable insights into your spending with our visual graphs. These charts provide a clear overview of your monthly expenditures, highlighting any unusual spikes or drops. This feature helps you identify spending patterns and make informed financial decisions.
-    fontawesome_icon_name                 : chart
+    fontawesome_icon_name                 : eye
 
   - title                                 : Customizable Transaction Filters
     description                           : Easily filter your transactions with customizable filters. Whether you want to view expenses by category, amount, or date, our app allows you to quickly find and review specific transactions, ensuring you have detailed control over your financial data.
@@ -83,7 +83,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimg.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
